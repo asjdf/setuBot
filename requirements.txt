@@ -1,0 +1,10 @@
+kuriyama==0.3.6
+pillow==7.1.2
+lxml==4.5.1
+
+# pytest
+# pytest-asyncio
+# pytest-cov
+# coverage<5
+
+# mypy
